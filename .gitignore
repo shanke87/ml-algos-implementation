@@ -1,0 +1,6 @@
+*.class
+bin/*
+test/*
+DecisionTreeImpl/test/data-builder.jar
+DecisionTreeImpl/.classpath
+DecisionTreeImpl/.project
