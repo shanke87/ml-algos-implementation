@@ -4,3 +4,5 @@ test/*
 DecisionTreeImpl/test/data-builder.jar
 DecisionTreeImpl/.classpath
 DecisionTreeImpl/.project
+BigramModel/hw2_train.txt
+BigramModel/hw2_test.txt
